@@ -8,5 +8,6 @@ The paper fine-tunes the Microsoft Phi-2 model to reduce the likelihood of biase
 
 I learned about DPO in my Intro to Reinforcement Learning course last year. 
 By recreating some of BiasDPO's experiments, I aim to gain familiarity using DPO in practice and learn how to evaluate a fine-tuned model.
+So far, I've learned about tokenization, padding and data collation, parameter efficient fine-tuning (PEFT), LORA matrices, llama.cpp, and Ollama.
 This work is in progress!
 
